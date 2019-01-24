@@ -21,4 +21,20 @@ p.s. divide and conquer 분할정복을 사용한 간단하지만 어렵고 중�
 # STL
 1. iterator 반복자
   https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=60208809639&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+2. Vector
+  https://woodforest.tistory.com/206
+    - vector 여러가지 생성자들
+  https://twpower.github.io/77-how-to-use-vector-in-cpp
+    - 기본 함수 사용법
+3. Template 선언법
+  http://www.sapphosound.com/archives/389
+  https://ditto954.tistory.com/entry/C%EC%97%90%EC%84%9C-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9D%98-%EC%84%A0%EC%96%B8%EC%A0%95%EC%9D%98%EB%B6%80%EB%A5%BC-hcpp-%EC%B2%98%EB%9F%BC-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0
+    - Template을 헤더랑 cpp랑 분리하고 싶을 때
+
+4. random 함수 mt19937 사용법
+  http://blog.naver.com/PostView.nhn?blogId=devmachine&logNo=177685246&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView
+    - 기존 난수 함수 보다 더 보완된 random 난수 STL
+    
+   
+  
   
