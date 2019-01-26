@@ -8,7 +8,18 @@ Algorithm Information sites
    - Merge Sort Description & C (Array Ver.)
   https://asbear.tistory.com/87
    - Merge Sort C++ (Vector Ver.)
-  
+
+3. Bubble Sort
+  https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html
+    - Bubble Sort Description & C
+
+4. Selection Sort
+  https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
+    - Selection Sort Description & C
+
+5. Quick Sort
+  https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
+    - Quick Sort Description & C
   
 p.s. divide and conquer 분할정복을 사용한 간단하지만 어렵고 중요한 개념
 
@@ -35,7 +46,9 @@ p.s. divide and conquer 분할정복을 사용한 간단하지만 어렵고 중�
 4. random 함수 mt19937 사용법
   http://blog.naver.com/PostView.nhn?blogId=devmachine&logNo=177685246&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView
     - 기존 난수 함수 보다 더 보완된 random 난수 STL
-    
-   
+
+5. Chrono
+  https://m.blog.naver.com/PostView.nhn?blogId=sorkelf&logNo=220820184971&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+    - 시간측정 STL
   
   
