@@ -39,6 +39,7 @@ p.s. divide and conquer 분할정복을 사용한 간단하지만 어렵고 중�
   https://twpower.github.io/77-how-to-use-vector-in-cpp
     - 기본 함수 사용법
 3. Template 선언법
+  https://www.codeproject.com/Articles/48575/How-to-define-a-template-class-in-a-h-file-and-imp
   http://www.sapphosound.com/archives/389
   https://ditto954.tistory.com/entry/C%EC%97%90%EC%84%9C-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9D%98-%EC%84%A0%EC%96%B8%EC%A0%95%EC%9D%98%EB%B6%80%EB%A5%BC-hcpp-%EC%B2%98%EB%9F%BC-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0
     - Template을 헤더랑 cpp랑 분리하고 싶을 때
