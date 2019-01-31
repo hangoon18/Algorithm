@@ -59,10 +59,13 @@ p.s. divide and conquer 분할정복을 사용한 간단하지만 어렵고 중�
 
 # String
   String은 c++에서 지원하는 강력한 method중 하나 이다. 그런 만큼 다양한 사용법과 함수들이 있으니 잘 참고해서 써야한다.
+1. find  
   https://kamang-it.tistory.com/entry/cstring%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0-1-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-%ED%8F%AC%ED%95%A8%EB%90%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B0%BE%EA%B8%B0
     - find 함수를 사용하여 원하는 문자열이 있는지 확인하는 
 
-
+2. strcpy strncpy
+  https://jink1982.tistory.com/159
+    - 문자열 복사 method
 # Algorithm header
   https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220246545025&proxyReferer=https%3A%2F%2Fwww.google.com%2F
     - max min에 관한 함수
